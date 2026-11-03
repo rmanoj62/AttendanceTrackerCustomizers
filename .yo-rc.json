@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.7",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "attendance-tracker-customizer",
+    "libraryId": "696c80f8-4520-4e2d-a97c-9e6c2621e2c3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "AttendanceTrackerCustomizer",
+    "solutionShortDescription": "AttendanceTrackerCustomizer description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}

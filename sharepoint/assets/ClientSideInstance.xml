@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="AttendanceTracker"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="e0732215-fa3d-4eec-be6b-6efe54297341"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

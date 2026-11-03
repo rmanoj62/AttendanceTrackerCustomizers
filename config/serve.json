@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://8xxv08.sharepoint.com/sites/Legalbill",
+      "customActions": {
+        "e0732215-fa3d-4eec-be6b-6efe54297341": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+          
+          }
+        }
+      }
+    },
+    "attendanceTracker": {
+      "pageUrl": "https://8xxv08.sharepoint.com/sites/Legalbill",
+      "customActions": {
+        "e0732215-fa3d-4eec-be6b-6efe54297341": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+      
+          }
+        }
+      }
+    }
+  }
+}
